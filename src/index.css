@@ -32,6 +32,9 @@ All colors MUST be HSL.
     --destructive: 0 84.2% 60.2%;
     --destructive-foreground: 210 40% 98%;
 
+    --success: 142 76% 36%;
+    --success-foreground: 0 0% 100%;
+
     --border: 188 20% 90%;
     --input: 188 20% 95%;
     --ring: 188 94% 45%;
@@ -40,11 +43,13 @@ All colors MUST be HSL.
     --gradient-primary: linear-gradient(135deg, hsl(188 94% 45%), hsl(188 94% 35%));
     --gradient-hero: linear-gradient(135deg, hsl(188 94% 50%), hsl(188 94% 40%), hsl(188 94% 30%));
     --gradient-card: linear-gradient(145deg, hsl(0 0% 100%), hsl(188 20% 98%));
+    --gradient-whatsapp: linear-gradient(135deg, hsl(142 76% 36%), hsl(142 76% 46%));
     
     /* Shadows */
     --shadow-soft: 0 4px 20px -2px hsl(188 94% 45% / 0.1);
     --shadow-medium: 0 8px 30px -4px hsl(188 94% 45% / 0.15);
     --shadow-strong: 0 20px 40px -8px hsl(188 94% 45% / 0.2);
+    --shadow-whatsapp: 0 8px 25px -5px hsl(142 76% 36% / 0.3);
 
     --radius: 0.5rem;
 

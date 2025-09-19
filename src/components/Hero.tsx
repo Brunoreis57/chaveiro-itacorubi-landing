@@ -45,7 +45,7 @@ const Hero = () => {
                 <Phone className="w-5 h-5" />
                 Ligar Agora
               </Button>
-              <Button variant="outline" size="lg" onClick={handleWhatsApp} className="text-base">
+              <Button variant="whatsapp" size="lg" onClick={handleWhatsApp} className="text-base">
                 WhatsApp
               </Button>
             </div>

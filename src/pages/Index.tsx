@@ -3,6 +3,8 @@ import Hero from "@/components/Hero";
 import Services from "@/components/Services";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import ScrollToTop from "@/components/ScrollToTop";
+import FloatingWhatsApp from "@/components/FloatingWhatsApp";
 
 const Index = () => {
   return (
@@ -12,6 +14,8 @@ const Index = () => {
       <Services />
       <Contact />
       <Footer />
+      <ScrollToTop />
+      <FloatingWhatsApp />
     </div>
   );
 };

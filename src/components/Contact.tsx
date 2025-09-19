@@ -103,10 +103,10 @@ const Contact = () => {
                   Ligar Agora
                 </Button>
                 <Button 
-                  variant="outline" 
+                  variant="whatsapp" 
                   size="lg" 
                   onClick={handleWhatsApp}
-                  className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
+                  className="border-success-foreground text-success-foreground hover:bg-success-foreground hover:text-success"
                 >
                   WhatsApp
                 </Button>
