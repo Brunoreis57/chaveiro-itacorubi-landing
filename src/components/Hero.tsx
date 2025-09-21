@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Phone, Clock, MapPin } from "lucide-react";
-import heroImage from "@/assets/locksmith-hero.jpg";
+import heroImage from "@/assets/chaveiro-itacorubi-hero.png";
 
 const Hero = () => {
   const handleCall = () => {
