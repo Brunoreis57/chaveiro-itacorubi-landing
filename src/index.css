@@ -17,13 +17,13 @@ All colors MUST be HSL.
     --popover: 0 0% 100%;
     --popover-foreground: 222.2 84% 4.9%;
 
-    --primary: 220 90% 56%;
+    --primary: 188 94% 45%;
     --primary-foreground: 0 0% 100%;
 
-    --secondary: 220 90% 95%;
-    --secondary-foreground: 220 90% 20%;
+    --secondary: 188 94% 95%;
+    --secondary-foreground: 188 94% 20%;
     
-    --header-blue: 220 90% 56%;
+    --header-blue: 188 94% 45%;
     --header-blue-foreground: 0 0% 100%;
 
     --muted: 188 20% 96%;
@@ -43,9 +43,9 @@ All colors MUST be HSL.
     --ring: 188 94% 45%;
 
     /* Gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(220 90% 56%), hsl(220 90% 46%));
-    --gradient-hero: linear-gradient(135deg, hsl(220 90% 60%), hsl(220 90% 50%), hsl(220 90% 40%));
-    --gradient-header: linear-gradient(135deg, hsl(220 90% 56%), hsl(220 90% 46%));
+    --gradient-primary: linear-gradient(135deg, hsl(188 94% 45%), hsl(188 94% 35%));
+    --gradient-hero: linear-gradient(135deg, hsl(188 94% 50%), hsl(188 94% 40%), hsl(188 94% 30%));
+    --gradient-header: linear-gradient(135deg, hsl(188 94% 45%), hsl(188 94% 35%));
     --gradient-card: linear-gradient(145deg, hsl(0 0% 100%), hsl(188 20% 98%));
     --gradient-whatsapp: linear-gradient(135deg, hsl(142 76% 36%), hsl(142 76% 46%));
     
