@@ -23,6 +23,10 @@ export default {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
         },
+        "header-blue": {
+          DEFAULT: "hsl(var(--header-blue))",
+          foreground: "hsl(var(--header-blue-foreground))",
+        },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
           foreground: "hsl(var(--secondary-foreground))",
@@ -72,6 +76,7 @@ export default {
         'gradient-hero': 'var(--gradient-hero)',
         'gradient-card': 'var(--gradient-card)',
         'gradient-whatsapp': 'var(--gradient-whatsapp)',
+        'gradient-header': 'var(--gradient-header)',
       },
       boxShadow: {
         'soft': 'var(--shadow-soft)',
