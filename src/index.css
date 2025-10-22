@@ -110,6 +110,9 @@ All colors MUST be HSL.
     --sidebar-accent-foreground: 240 4.8% 95.9%;
     --sidebar-border: 240 3.7% 15.9%;
     --sidebar-ring: 217.2 91.2% 59.8%;
+
+    /* Dark-mode gradients */
+    --gradient-card: linear-gradient(145deg, hsl(217.2 32.6% 17.5%), hsl(222.2 84% 9%));
   }
 }
 
